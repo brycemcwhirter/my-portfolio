@@ -26,10 +26,14 @@
 	</section>
 
 	<section id="resumePage">
-		<div class="border">Resumé</div>
+		<div class="flex min-h-screen flex-col items-center justify-center space-y-6 border sm:p-px">
+			Resumé
+		</div>
 	</section>
 	<section id="projectPage">
-		<div class="border">Project</div>
+		<div class="flex min-h-screen flex-col items-center justify-center space-y-6 border sm:p-px">
+			Projects
+		</div>
 	</section>
 	<section id="contactPage">
 		<div class="flex min-h-screen flex-col items-center justify-center space-y-6 border sm:p-px">
