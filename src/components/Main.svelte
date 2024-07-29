@@ -1,7 +1,8 @@
 <script>
+	import Resume from './Resume.svelte';
 </script>
 
-<main>
+<main class="dark:bg-black dark:text-white">
 	<section id="introPage">
 		<div class="flex min-h-screen flex-col items-center justify-center border">
 			<h1 class="text-2xl font-semibold">Bryce McWhirter</h1>
@@ -26,9 +27,7 @@
 	</section>
 
 	<section id="resumePage">
-		<div class="flex min-h-screen flex-col items-center justify-center space-y-6 border sm:p-px">
-			Resumé
-		</div>
+		<Resume />
 	</section>
 	<section id="projectPage">
 		<div class="flex min-h-screen flex-col items-center justify-center space-y-6 border sm:p-px">
