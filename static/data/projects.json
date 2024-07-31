@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Quantum Cat Translator",
+		"imgLink": "/images/image-link.jpg",
+		"description": "A project that attempts to translate cat meows into human language using quantum computing principles and machine learning algorithms. The goal is to understand and respond to your cat's deepest thoughts.",
+		"githubLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+	},
+	{
+		"title": "Telepathic Toaster",
+		"imgLink": "/images/image-link.jpg",
+		"description": "Build a toaster that starts toasting bread the moment you think about having toast. Utilizing brain-computer interfaces and IoT, this project aims to streamline your breakfast experience.",
+		"githubLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+	},
+	{
+		"title": "Mood Ring Smart Fridge",
+		"imgLink": "/images/image-link.jpg",
+		"description": "Create a smart fridge that changes color based on your mood. Using wearable mood rings and smart home technology, this fridge will suggest food based on how you're feeling.",
+		"githubLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+	}
+]
