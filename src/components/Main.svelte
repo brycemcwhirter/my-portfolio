@@ -1,5 +1,6 @@
 <script>
 	import Resume from './Resume.svelte';
+	import Project from './Project.svelte';
 </script>
 
 <main class="dark:bg-black dark:text-white">
@@ -30,9 +31,7 @@
 		<Resume />
 	</section>
 	<section id="projectPage">
-		<div class="flex min-h-screen flex-col items-center justify-center space-y-6 border sm:p-px">
-			Projects
-		</div>
+		<Project />
 	</section>
 	<section id="contactPage">
 		<div class="flex min-h-screen flex-col items-center justify-center space-y-6 border sm:p-px">

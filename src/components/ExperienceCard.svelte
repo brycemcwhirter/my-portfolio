@@ -11,7 +11,7 @@
 
 <!-- todo Align Text to Center if on a small screen-->
 {#each experiences as experience}
-	<div class="gap-1 space-y-1 border">
+	<div class="gap-1 space-y-1 border p-4 text-center md:text-left">
 		<h2 class="text-md font-bold md:text-xl">{experience.title}</h2>
 		<a href={experience.companyLink} target="_blank">
 			<p class="pad-1 text-sm font-medium italic hover:underline md:text-base">
