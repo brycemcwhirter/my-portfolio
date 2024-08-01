@@ -3,7 +3,7 @@
 </script>
 
 <div class="grid min-h-screen items-center justify-center">
-	<div class="grid md:grid-cols-3">
+	<div class="grid lg:grid-cols-3">
 		<ProjectCard />
 	</div>
 	<div class="mt-4 flex items-center justify-center">

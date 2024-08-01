@@ -6,23 +6,23 @@
 <main class="dark:bg-black dark:text-white">
 	<section id="introPage">
 		<div class="flex min-h-screen flex-col items-center justify-center border">
-			<h1 class="text-2xl font-semibold">Bryce McWhirter</h1>
-			<p class="font-medium">Full Stack Developer</p>
-			<p class="text-sm font-medium">DFW</p>
+			<h1 class="text-2xl font-semibold md:text-4xl">Bryce McWhirter</h1>
+			<p class="text-lg font-medium md:text-2xl">Full Stack Developer</p>
+			<p class="text-md font-medium md:text-lg">DFW</p>
 		</div>
 	</section>
 	<section id="aboutPage">
-		<div class="flex min-h-screen flex-col items-center justify-center space-y-6 border sm:p-px">
-			<h1 class="text-2xl font-semibold">About Me</h1>
-			<p class="m-4 text-center text-xs sm:text-sm lg:m-32">
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vehicula viverra ex, ut
-				tincidunt lacus laoreet vel. Praesent vel aliquam metus. Vestibulum id turpis eget ligula
-				congue aliquam in a metus. Sed tortor felis, suscipit sit amet nulla eu, feugiat ultricies
-				justo. In rutrum lacus vitae mauris ultricies, non tempor sapien consectetur. Nunc id
-				convallis leo. Aliquam non ligula ultrices, placerat nisl in, mollis arcu. Vivamus convallis
-				dignissim massa, at gravida ante. Ut ac neque justo. Aliquam non ligula ultrices, placerat
-				nisl in, mollis arcu. Vivamus convallis dignissim massa, at gravida ante. Ut ac neque justo.
-				Aliquam non ligula ultrices, placerat nisl in, mollis arcu. Vivamus convallis.
+		<div
+			class="flex min-h-screen flex-col items-center justify-center space-y-10 border md:space-y-12"
+		>
+			<h1 class="text-2xl font-semibold md:text-3xl">About Me</h1>
+			<p class="m-4 text-center md:m-28 lg:m-32">
+				I'm a graduate from Baylor University with a Bachelor of Science in Computer Science and a
+				minor in Entrepreneurship and Corporate Innovation. My programming experience began when I
+				was a senior in high school, writing programs for a TI-84 calculator. Since then, I've
+				gained extensive experience in multiple technologies by building various projects both in
+				academia and during my free time. Keep scrolling to see my experience and the projects I've
+				worked on and am currently working on.
 			</p>
 		</div>
 	</section>
@@ -35,24 +35,21 @@
 	</section>
 	<section id="contactPage">
 		<div class="flex min-h-screen flex-col items-center justify-center space-y-6 border sm:p-px">
-			<h1 class="text-2xl font-semibold">Contact</h1>
-			<p class="m-4 text-center text-xs sm:text-sm lg:m-32">
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vehicula viverra ex, ut
-				tincidunt lacus laoreet vel.
-			</p>
-			<div class="flex-row space-x-3">
+			<h1 class="text-2xl font-semibold lg:text-4xl">Contact</h1>
+			<p class="text-md m-4 text-center lg:m-32 lg:text-lg">Feel free to reach out.</p>
+			<div class="flex-row space-x-5">
 				<a
 					href="https://www.linkedin.com/in/bryce-mcwhirter-5b9330146/"
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					<i class="fa-brands fa-linkedin-in"></i>
+					<i class="fa-brands fa-linkedin-in fa-xl"></i>
 				</a>
 				<a href="https://github.com/brycemcwhirter" target="_blank" rel="noopener noreferrer">
-					<i class="fa-brands fa-github"></i>
+					<i class="fa-brands fa-github fa-xl"></i>
 				</a>
 				<a href="mailto:mcwhirterbryce@gmail.com" target="_blank" rel="noopener noreferrer">
-					<i class="fa fa-envelope" aria-hidden="true"></i>
+					<i class="fa fa-envelope fa-xl" aria-hidden="true"></i>
 				</a>
 			</div>
 		</div>
