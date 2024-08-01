@@ -9,7 +9,6 @@
 	});
 </script>
 
-<!-- todo Align Text to Center if on a small screen-->
 <!-- {#each projects as project}
 	<div class="gap-1 space-y-1 p-4 text-center md:text-left">
 		<h2 class="text-md font-bold md:text-xl">{project.title}</h2>
