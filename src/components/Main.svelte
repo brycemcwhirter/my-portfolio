@@ -36,7 +36,12 @@
 	<section id="contactPage">
 		<div class="flex min-h-screen flex-col items-center justify-center space-y-6 border sm:p-px">
 			<h1 class="text-2xl font-semibold lg:text-4xl">Contact</h1>
-			<p class="text-md m-4 text-center lg:m-32 lg:text-lg">Feel free to reach out.</p>
+			<p class="m-9 text-center text-sm md:m-20 lg:m-32 lg:text-lg">
+				I appreciate you taking the time to explore my background and projects. If you'd like to
+				connect, discuss potential collaborations, or simply have a chat about technology and
+				innovation, I'd love to hear from you. Please feel free to reach out to me on LinkedIn or
+				send an email. Looking forward to connecting!
+			</p>
 			<div class="flex-row space-x-5">
 				<a
 					href="https://www.linkedin.com/in/bryce-mcwhirter-5b9330146/"
