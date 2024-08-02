@@ -2,22 +2,23 @@
 	{
 		"title": "Software Developer III",
 		"company": "Paycom Inc.",
+		"dateRange": "June 2023-Present",
 		"companyLink": "https://www.paycom.com/",
-		"description": "As a professional cuddler, your job is to provide soothing, non-romantic snuggles to clients seeking comfort and human connection in a cozy, platonic environment.",
-		"bulletPoints": ["bullet1", "bullet2", "bullet3"]
+		"description": "Quickly promoted to develop scalable and performant software solutions for clients, leveraging agile development methodologies. Create high-quality and reusable code while resolving critical issues. Build intuitive and thoughtful user experiences. Engineer batch processes and integrate data pipelines to automate workflow and optimize efficiency. Partner cross-functionally to optimize designs, code quality, and testing.",
+		"bulletPoints": [
+			"Designed and implemented Custom Converters, tailored solutions that generate reports aligned with diverse client requirements, enhancing data visualization and analysis capabilities.",
+			"Serve as technical advisor to clients, uncovering unique data requirements and optimal reporting structures, fostering effective communication and ensuring alignment with technical solutions."
+		]
 	},
 	{
-		"title": "Software Developer III",
-		"company": "Paycom Inc.",
-		"companyLink": "https://www.paycom.com/",
-		"description": "This unique role involves determining the gender of baby chicks at hatcheries, a crucial task for ensuring proper management and care of poultry farms around the world.",
-		"bulletPoints": ["bullet1", "bullet2", "bullet3"]
-	},
-	{
-		"title": "Software Developer III",
-		"company": "Paycom Inc.",
-		"companyLink": "https://www.paycom.com/",
-		"description": "As a pet food taster, you'll be responsible for sampling various pet foods to ensure they meet quality standards and taste profiles, helping to create delicious meals for our furry friends.",
-		"bulletPoints": ["bullet1", "bullet2", "bullet3"]
+		"title": "Product Management Intern",
+		"company": "Walmart, Inc. ",
+		"dateRange": "June 2022-August 2022",
+		"companyLink": "https://corporate.walmart.com/news/2024/06/06/new-tech-better-outcomes-digital-shelf-labels-are-a-win-for-customers-and-associates",
+		"description": "Managed product development projects to boost operational efficiency and performance. Facilitated high stakes meetings with internal and external stakeholders, uncovering opportunities and mitigating risks.",
+		"bulletPoints": [
+			"Played a pivotal role in transitioning the entire company to digital price tags, working collaboratively with the Next Gen Product team.",
+			"Recommended actionable insights into the future of retail (next 50 years), presenting to C-Level executives at Sam’s Club to highlight comprehensive research findings on emerging trends."
+		]
 	}
 ]
