@@ -1,20 +1,20 @@
 [
 	{
-		"title": "Quantum Cat Translator",
+		"title": "This Portfolio",
 		"imgLink": "/images/image-link.jpg",
-		"description": "A project that attempts to translate cat meows into human language using quantum computing principles and machine learning algorithms. The goal is to understand and respond to your cat's deepest thoughts.",
-		"githubLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+		"description": "My web portfolio showcases a collection of my software development projects, built using modern technologies such as Svelte.js for the front-end, Tailwind CSS for styling, and deployed with continuous integration and deployment tools like GitHub Actions and Netlify.",
+		"githubLink": "https://github.com/brycemcwhirter/my-portfolio"
 	},
 	{
-		"title": "Telepathic Toaster",
-		"imgLink": "/images/image-link.jpg",
-		"description": "Build a toaster that starts toasting bread the moment you think about having toast. Utilizing brain-computer interfaces and IoT, this project aims to streamline your breakfast experience.",
-		"githubLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+		"title": "UCan.Do.It",
+		"imgLink": "/images/location.jpg",
+		"description": "Created UCAn.Do.It as a class project for my data communications course at Baylor, utilizing TCP and UDP protocols in Java to transmit location records to a server.",
+		"githubLink": "https://github.com/brycemcwhirter/UCAn.Do.it"
 	},
 	{
-		"title": "Mood Ring Smart Fridge",
-		"imgLink": "/images/image-link.jpg",
-		"description": "Create a smart fridge that changes color based on your mood. Using wearable mood rings and smart home technology, this fridge will suggest food based on how you're feeling.",
-		"githubLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+		"title": "Food Truck Finder",
+		"imgLink": "/images/food-truck.jpg",
+		"description": "Developed a food truck finder application for a class project in 2021, featuring a React.js front-end and a Java Spring Boot backend, allowing users to easily locate and rate local food trucks",
+		"githubLink": "https://github.com/brycemcwhirter/FoodTruckFinder"
 	}
 ]
