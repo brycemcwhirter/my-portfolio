@@ -18,34 +18,34 @@
 			>
 				<!--TODO svelte icon!-->
 				<!-- Icons to show on small screens -->
-				<i class="fa-brands fa-svelte fa-2x md:hidden"></i>
-				<i class="fa-brands fa-react fa-2x md:hidden"></i>
-				<i class="fa-brands fa-vuejs fa-2x md:hidden"></i>
+				<i class="fa-brands fa-js fa-2x md:hidden"></i>
 				<i class="fa-brands fa-php fa-2x md:hidden"></i>
-				<i class="fa-brands fa-python fa-2x md:hidden"></i>
-				<i class="fa-brands fa-docker fa-2x md:hidden"></i>
 				<i class="fa-brands fa-java fa-2x md:hidden"></i>
-				<i class="fa-brands fa-c fa-2x md:hidden"></i>
+				<i class="fa-brands fa-python fa-2x md:hidden"></i>
+				<!-- <i class="fa-brands fa-react fa-2x md:hidden"></i>
+				<i class="fa-brands fa-vuejs fa-2x md:hidden"></i>
+				<i class="fa-brands fa-tailwind fa-2x md:hidden"></i>
+				<i class="fa-brands fa-docker fa-2x md:hidden"></i> -->
 
 				<!-- Icons to show on medium screens -->
-				<i class="fa-brands fa-svelte fa-3x hidden md:inline lg:hidden"></i>
-				<i class="fa-brands fa-react fa-3x hidden md:inline lg:hidden"></i>
-				<i class="fa-brands fa-vuejs fa-3x hidden md:inline lg:hidden"></i>
+				<i class="fa-brands fa-js fa-3x hidden md:inline lg:hidden"></i>
 				<i class="fa-brands fa-php fa-3x hidden md:inline lg:hidden"></i>
-				<i class="fa-brands fa-python fa-3x hidden md:inline lg:hidden"></i>
-				<i class="fa-brands fa-docker fa-3x hidden md:inline lg:hidden"></i>
 				<i class="fa-brands fa-java fa-3x hidden md:inline lg:hidden"></i>
-				<i class="fa-brands fa-c fa-3x hidden md:inline lg:hidden"></i>
+				<i class="fa-brands fa-python fa-3x hidden md:inline lg:hidden"></i>
+				<!-- <i class="fa-brands fa-react fa-3x hidden md:inline lg:hidden"></i>
+				<i class="fa-brands fa-vuejs fa-3x hidden md:inline lg:hidden"></i>
+				<i class="fa-brands fa-vuejs fa-3x hidden md:inline lg:hidden"></i>
+				<i class="fa-brands fa-docker fa-3x hidden md:inline lg:hidden"></i> -->
 
 				<!-- Icons to show on large screens -->
-				<i class="fa-brands fa-svelte fa-5x hidden lg:inline"></i>
-				<i class="fa-brands fa-react fa-5x hidden lg:inline"></i>
-				<i class="fa-brands fa-vuejs fa-5x hidden lg:inline"></i>
+				<i class="fa-brands fa-js fa-5x hidden lg:inline"></i>
 				<i class="fa-brands fa-php fa-5x hidden lg:inline"></i>
-				<i class="fa-brands fa-python fa-5x hidden lg:inline"></i>
-				<i class="fa-brands fa-docker fa-5x hidden lg:inline"></i>
 				<i class="fa-brands fa-java fa-5x hidden lg:inline"></i>
-				<i class="fa-brands fa-c fa-5x hidden lg:inline"></i>
+				<i class="fa-brands fa-python fa-5x hidden lg:inline"></i>
+				<!-- <i class="fa-brands fa-react fa-5x hidden lg:inline"></i>
+				<i class="fa-brands fa-vuejs fa-5x hidden lg:inline"></i>
+				<i class="fa-brands fa-vuejs fa-5x hidden lg:inline"></i>
+				<i class="fa-brands fa-docker fa-5x hidden lg:inline"></i> -->
 			</div>
 		</div>
 
