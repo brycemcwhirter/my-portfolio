@@ -2,7 +2,7 @@
 	import ProjectCard from './ProjectCard.svelte';
 </script>
 
-<div class="grid min-h-screen border">
+<div class="grid min-h-screen">
 	<div class="grid p-7 lg:grid-cols-3">
 		<ProjectCard />
 	</div>
