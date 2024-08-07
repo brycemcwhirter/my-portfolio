@@ -2,7 +2,7 @@
 	import ExperienceCard from './ExperienceCard.svelte';
 </script>
 
-<div class="grid min-h-screen grid-cols-1 space-y-5 border p-6 md:p-8">
+<div class="grid min-h-screen grid-cols-1 space-y-5 p-6 md:p-8">
 	<!-- <h1
 		class="align-center flex items-center justify-center text-2xl font-bold md:text-3xl lg:hidden"
 	>

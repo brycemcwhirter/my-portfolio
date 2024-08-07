@@ -5,16 +5,14 @@
 
 <main class="dark:bg-black dark:text-white">
 	<section id="introPage">
-		<div class="flex min-h-screen flex-col items-center justify-center border">
+		<div class="flex min-h-screen flex-col items-center justify-center">
 			<h1 class="text-2xl font-semibold md:text-4xl">Bryce McWhirter</h1>
 			<p class="text-lg font-medium md:text-2xl">Full Stack Developer</p>
 			<p class="text-md font-medium md:text-lg">DFW</p>
 		</div>
 	</section>
 	<section id="aboutPage">
-		<div
-			class="flex min-h-screen flex-col items-center justify-center space-y-10 border md:space-y-12"
-		>
+		<div class="flex min-h-screen flex-col items-center justify-center space-y-10 md:space-y-12">
 			<h1 class="text-2xl font-semibold md:text-3xl">About Me</h1>
 			<p class="m-4 text-center md:m-28 lg:m-32">
 				I'm a graduate from Baylor University with a Bachelor of Science in Computer Science and a
@@ -34,7 +32,7 @@
 		<Project />
 	</section>
 	<section id="contactPage">
-		<div class="flex min-h-screen flex-col items-center justify-center space-y-6 border sm:p-px">
+		<div class="flex min-h-screen flex-col items-center justify-center space-y-6 sm:p-px">
 			<h1 class="text-2xl font-semibold lg:text-4xl">Contact</h1>
 			<p class="m-9 text-center text-sm md:m-20 lg:m-32 lg:text-lg">
 				I appreciate you taking the time to explore my background and projects. If you'd like to
