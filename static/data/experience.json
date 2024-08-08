@@ -1,0 +1,23 @@
+[
+	{
+		"title": "Software Developer III",
+		"company": "Paycom Inc.",
+		"companyLink": "https://www.paycom.com/",
+		"description": "As a professional cuddler, your job is to provide soothing, non-romantic snuggles to clients seeking comfort and human connection in a cozy, platonic environment.",
+		"bulletPoints": ["bullet1", "bullet2", "bullet3"]
+	},
+	{
+		"title": "Software Developer III",
+		"company": "Paycom Inc.",
+		"companyLink": "https://www.paycom.com/",
+		"description": "This unique role involves determining the gender of baby chicks at hatcheries, a crucial task for ensuring proper management and care of poultry farms around the world.",
+		"bulletPoints": ["bullet1", "bullet2", "bullet3"]
+	},
+	{
+		"title": "Software Developer III",
+		"company": "Paycom Inc.",
+		"companyLink": "https://www.paycom.com/",
+		"description": "As a pet food taster, you'll be responsible for sampling various pet foods to ensure they meet quality standards and taste profiles, helping to create delicious meals for our furry friends.",
+		"bulletPoints": ["bullet1", "bullet2", "bullet3"]
+	}
+]
